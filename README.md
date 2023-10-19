@@ -6,9 +6,9 @@
  
  <h1 align="center"> Criando um Relatório de Vendas elegante com Power BI </h1>
 
-Este é um desafio de projeto do **Santander Bootcamp 2023 - Ciência de Dados com Python.** 
+Desafio realizado no **Santander Bootcamp 2023 - Ciência de Dados com Python.** 
 
-Nesse desafio, a proposta era criar um relatório elaborado com base na sample financials do Power BI. 
+Esse desafio consiste na criação de umrelatorio com base na sample financial do Power BI
 
 O meu relatório apresenta três páginas:
 
